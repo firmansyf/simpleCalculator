@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simpleCalculator/static/css/main.ad0b6c58.chunk.css",
+    "main.js": "/simpleCalculator/static/js/main.66afe623.chunk.js",
+    "main.js.map": "/simpleCalculator/static/js/main.66afe623.chunk.js.map",
+    "runtime-main.js": "/simpleCalculator/static/js/runtime-main.b47cea02.js",
+    "runtime-main.js.map": "/simpleCalculator/static/js/runtime-main.b47cea02.js.map",
+    "static/js/2.f6798e4b.chunk.js": "/simpleCalculator/static/js/2.f6798e4b.chunk.js",
+    "static/js/2.f6798e4b.chunk.js.map": "/simpleCalculator/static/js/2.f6798e4b.chunk.js.map",
+    "static/js/3.10909abc.chunk.js": "/simpleCalculator/static/js/3.10909abc.chunk.js",
+    "static/js/3.10909abc.chunk.js.map": "/simpleCalculator/static/js/3.10909abc.chunk.js.map",
+    "index.html": "/simpleCalculator/index.html",
+    "static/css/main.ad0b6c58.chunk.css.map": "/simpleCalculator/static/css/main.ad0b6c58.chunk.css.map",
+    "static/js/2.f6798e4b.chunk.js.LICENSE.txt": "/simpleCalculator/static/js/2.f6798e4b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/simpleCalculator/static/media/math.5fb4a893.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b47cea02.js",
+    "static/js/2.f6798e4b.chunk.js",
+    "static/css/main.ad0b6c58.chunk.css",
+    "static/js/main.66afe623.chunk.js"
+  ]
+}
